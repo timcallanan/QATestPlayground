@@ -13,6 +13,7 @@ namespace HelloGitWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GitWorld");
+            Console.WriteLine("Hello GitWorld");
         }
     }
 }
