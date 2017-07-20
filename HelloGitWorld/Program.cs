@@ -14,6 +14,8 @@ namespace HelloGitWorld
         {
             Console.WriteLine("Hello GitWorld");
             Console.WriteLine("Hello GitWorld");
+            Console.WriteLine("Hello GitWorld from User 2");
+            
         }
         
     }
