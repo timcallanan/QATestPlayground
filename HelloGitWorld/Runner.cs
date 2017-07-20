@@ -17,6 +17,10 @@ namespace HelloGitWorld
         {
             var runner = new Runner();
             runner.Run();
+
+            var calculator = new Calculator();
+            int sum = calculator.Add(5, 7);
+            Console.WriteLine(sum);
         }
     
 
